@@ -16,7 +16,7 @@ h2 {
 }
 
 div {
-	width:50%; 
+	max-width: 50%;
 	margin:auto;
 	padding: 50px;
 }
@@ -24,4 +24,8 @@ div {
 #mainDiv {
 	background-color: whitesmoke;
 	border-radius: 5px;
+}
+
+button {
+	border:1px solid black;
 }
