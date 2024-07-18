@@ -14,3 +14,8 @@ div {
 	width:300px; 
 	margin:auto;
 }
+
+#mainDiv {
+	background-color: whitesmoke;
+	border-radius: 5px;
+}
