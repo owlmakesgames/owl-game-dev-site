@@ -2,11 +2,16 @@ body {
 	background-color:#1a1a1a;
 	font-family: Helvetica, Arial, sans-serif;
 	text-align: center;
-	color: whitesmoke;
+	color: black;
 }
 
 h1 {
-	color:whitesmoke;
+	color:black;
+	text-align: center;
+}
+
+h2 {
+	color: black;
 	text-align: center;
 }
 
