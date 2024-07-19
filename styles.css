@@ -15,15 +15,12 @@ h2 {
 	text-align: center;
 }
 
-div {
-	max-width: 50%;
-	margin:auto;
-	padding: 50px;
-}
-
 #mainDiv {
 	background-color: whitesmoke;
 	border-radius: 5px;
+	max-width: 50%;
+	margin:auto;
+	padding: 50px;
 }
 
 button {
@@ -37,6 +34,23 @@ button {
 }
 
 .social {
-	max-width: 50px;
+	max-height: 50px;
 	text-decoration: none;
+}
+
+#pressKitDiv{
+	background-color: whitesmoke;
+	width: 100%;
+}
+
+.column1{
+	background-color: whitesmoke;
+	float: left;
+	width: 30%;
+}
+
+.column2{
+	background-color: whitesmoke;
+	float: right;
+	width: 70%;
 }
