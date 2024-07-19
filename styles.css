@@ -38,6 +38,10 @@ button {
 	text-decoration: none;
 }
 
+.gameImages{
+	max-height: 200px;
+}
+
 #pressKitDiv{
 	background-color: whitesmoke;
 	width: 100%;
