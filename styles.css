@@ -38,12 +38,17 @@ button {
 	text-decoration: none;
 }
 
+table{
+	width: 100%;
+	border: none;	
+}
+
 .gameImages{
-	max-height: 200px;
+	max-height: 100%;
 }
 
 .pressKitLogoImages{
-	max-height: 800;
+	max-height: 800px;
 }
 
 #pressKitDiv{
