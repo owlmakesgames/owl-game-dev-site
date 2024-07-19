@@ -40,8 +40,11 @@ button {
 
 table{
 	width: 100%;
-	border: #1a1a1a;
-	border-style: solid;
+	border: none;
+}
+
+td{
+	max-width: 33.3%;
 }
 
 .gameImages{
