@@ -42,6 +42,10 @@ button {
 	max-height: 200px;
 }
 
+.pressKitLogoImages{
+	max-height: 800;
+}
+
 #pressKitDiv{
 	background-color: whitesmoke;
 	width: 100%;
