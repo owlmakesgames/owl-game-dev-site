@@ -1,11 +1,7 @@
 body {
-background:
-      conic-gradient(at 50% 25%,#0000 75%,#1a1a1a 0),conic-gradient(at 50% 25%,#0000 75%,#1a1a1a 0) 32px 32px,
-      conic-gradient(at 50% 25%,#0000 75%,#1a1a1a 0) calc(2*32px) calc(2*32px),
-      conic-gradient(at 50% 25%,#0000 75%,#1a1a1a 0) calc(3*32px) calc(3*32px),
-      repeating-linear-gradient(135deg,#c2c2c2 0 12.5%,#f5f5f5 0 25%);
-background-size: calc(4 * 32px) calc(4*32px);
-
+	background-image: radial-gradient(#f5f5f5 2px, transparent 2px);
+	background-size: 32px 32px;
+	background-color: #1a1a1a;
 	font-family: Helvetica, Arial, sans-serif;
 	text-align: center;
 	color: black;
