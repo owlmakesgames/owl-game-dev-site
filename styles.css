@@ -25,6 +25,12 @@ h2 {
 	padding: 50px;
 }
 
+.game-grid{
+	display: grid;
+	grid-template-columns: repeat(3, minmax(min(10px, 100%), 1fr));
+	gap: 2rem;
+}
+
 button {
 	border:1px solid black;
 	cursor: pointer;
