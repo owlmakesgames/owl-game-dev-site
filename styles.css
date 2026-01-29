@@ -27,7 +27,7 @@ h2 {
 
 .game-grid{
 	display: grid;
-	grid-template-columns: repeat(3, minmax(min(10px, 100%), 1fr));
+	grid-template-columns: repeat(2, auto);
 	gap: 2rem;
 }
 
