@@ -8,7 +8,7 @@ date: 2026-01-29
 
 
 Today I released a little pomodoro timer idle game, or desktop timer toy, called
-[Thor's Training Timer]{https://owlmakesgames.itch.io/thors-training-timer}. It's meant to be a pomodoro timer productivity tool, but made a tiny bit more fun.
+[Thor's Training Timer](https://owlmakesgames.itch.io/thors-training-timer) It's meant to be a pomodoro timer productivity tool, but made a tiny bit more fun.
 
 You use it like a normal pomodoro timer, but you get to watch Thor (or Odin or Sif) beat up a monster while you do your work. They also take little naps during the breaks, which I think is fun. 
 
@@ -20,4 +20,4 @@ I took a break from Loki's Revenge updates to work on this, and I think it reall
 
 I know basically no one will play it or care, but it still felt good to start and finish something so quickly. I needed that palette cleanser and confidence boost very badly.
 
-I also had a lot of fun starting to learn Blender to do the 3D logo and kdenlive to edit the [infomercial style release trailer]{https://youtu.be/Qtkt8iLDYKc}
+I also had a lot of fun starting to learn Blender to do the 3D logo and kdenlive to edit the [infomercial style release trailer](https://youtu.be/Qtkt8iLDYKc)
